@@ -8,3 +8,8 @@ const App = () => {
     </Template>
   );
 }
+
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+);
